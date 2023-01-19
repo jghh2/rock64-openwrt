@@ -1,2 +1,2 @@
 # rock64-openwrt
-rock64 开发版openwrt固件
+rock64开发板的openwrt固件

@@ -1,5 +1,5 @@
 # rock64-openwrt
-rock64 v2 开发板的openwrt固件
+rock64 v2 （1G DDR）开发板的openwrt固件
 
 # rootfs移植版
 * 使用mrfixit2001/debian的固件引导 https://github.com/mrfixit2001/debian_builds/releases/download/190531/rock64-debian-mrfixit-190531.img.xz
